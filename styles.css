@@ -36,9 +36,16 @@ page[size="A5"] {
 
 .name {
     text-align: center;
+    margin: -1em;
 }
 
+.txt_dear {
+    font-family: league-gothic, sans-serif;
+    font-weight: 400;
+    font-size: 40px;
 
+
+}
 
 
 .cryo_image {
@@ -66,7 +73,28 @@ page[size="A5"] {
 
 
 .button2 {
-    background-color: #008CBA;
+    background-color: #5e8aa1;
+    padding: 10px 32px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family: league-gothic, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1rem;
+    color: white;
 }
 
-/* Blue */
+
+.txt_end {
+    font-family: letter-gothic-std, monospace;
+    font-size: 2rem;
+    font-weight: 400;
+    font-style: normal;
+
+    text-align: center;
+
+
+}
