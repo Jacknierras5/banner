@@ -13,7 +13,7 @@ page {
 
 page[size="A5"] {
     width: 14.8cm;
-    height: 28cm;
+    height: 27cm;
 }
 
 page[size="A5_2"] {
@@ -23,7 +23,7 @@ page[size="A5_2"] {
 
 page[size="A5_3"] {
     width: 14.8cm;
-    height: 47cm;
+    height: 46cm;
 }
 
 @media print {
