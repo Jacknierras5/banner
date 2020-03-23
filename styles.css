@@ -13,7 +13,7 @@ page {
 
 page[size="A5"] {
     width: 14.8cm;
-    height: 25cm;
+    height: 28cm;
 }
 
 page[size="A5_2"] {
@@ -119,7 +119,7 @@ page[size="A5_3"] {
 }
 
 
-.txt_benefits{
+.txt_benefits {
     font-family: letter-gothic-std, monospace;
     font-size: 13px;
     font-weight: 400;
